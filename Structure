@@ -1,0 +1,19 @@
+lib/
+|- main.dart
+|- authentication/
+|  |- login_page.dart
+|  |- register_page.dart
+|- student/
+|  |- student_home_page.dart
+|  |- homework/
+|     |- homework_list_page.dart
+|     |- homework_submission_page.dart
+|- teacher/
+|  |- teacher_home_page.dart
+|  |- homework_management/
+|     |- create_homework_page.dart
+|     |- manage_homework_page.dart
+|- interactive_learning/
+|  |- interactive_tools_page.dart
+|- performance_tracking/
+|  |- performance_page.dart
